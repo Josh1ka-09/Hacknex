@@ -21,23 +21,21 @@ Follow these steps to get the project running on your machine:
 
  1. Clone the repository
 bash
-git clone https://github.com
+git clone  https://josh1ka-09.github.io/Hacknex/
 
  2. Install dependencies
  
  3. bash npm install
 
-
-### 4. Start the development server
+4. Start the development server
 bash
 
 
-Open [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal) to view it in your browser.
+Open [http://localhost:5173](http://localhost:5173) 
 
- Team Members
-Joshika DS [LEADER]
-Brightlin Blessy W[MEMBER 1]
-Yahzhini Priscilla D[MEMBER 2 Prompt Engineer]
-Angelin Misty A[MEMBER 3]
-- Role (e.g., Prompt Engineer & Frontend Dev) - [GitHub](https://github.com)
-*
+Team Members
+1. Joshika DS [LEADER]
+2. Brightlin Blessy W[MEMBER 1]
+3. Yahzhini Priscilla D[MEMBER 2 Prompt Engineer]
+4. Angelin Misty A[MEMBER 3]
+
