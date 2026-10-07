@@ -1,7 +1,7 @@
 Multi Model Document Intelligence
 
 "An AI-powered document intelligence system that can read mixed documents and answer questions from the user".
-Live website: [Click here](https://docu-quest-visual.lovable.app)
+Live website: **[Click Here to Open](https://docu-quest-visual.lovable.app)**
 
 The Problem & Solution
 The Problem: Creating a System that can read mixed documents (PDFs with text, tables, charts, graphs, images, scanned pages) and answer questions about them. The system
